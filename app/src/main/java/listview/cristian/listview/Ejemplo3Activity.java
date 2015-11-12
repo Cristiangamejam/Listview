@@ -14,6 +14,8 @@ ListView listView;
         setContentView(R.layout.activity_ejemplo3);
 
 
+
+
         Alumnos alumnos_datos[]= new Alumnos[]{
                 new Alumnos(R.drawable.ic_launcher,"jose"),
                 new Alumnos(R.drawable.ic_launcher,"pepe"),
