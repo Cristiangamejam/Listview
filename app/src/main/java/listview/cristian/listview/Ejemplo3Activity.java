@@ -27,7 +27,7 @@ ListView listView;
                 new Alumnos(R.drawable.ic_launcher,"jjj")
         };
 
-
+        //
         listView = (ListView)findViewById(R.id.ListViewEjemplo3);
 
         AlumnosAdapter adapter= new AlumnosAdapter(this,R.layout.listview_item_row,alumnos_datos);//Fila
